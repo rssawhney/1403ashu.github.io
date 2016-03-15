@@ -22,7 +22,7 @@
 /*----------------------------------------------------*/
 /*	gmaps
 ------------------------------------------------------*/
-   // 
+   //
   //  var map;
    //
   //  // main directions
@@ -54,7 +54,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "inc/sendEmail.php",
+	      url: "http://php-weconvert.rhcloud.com/sendEmail.php",
 	      data: data,
 	      success: function(msg) {
 

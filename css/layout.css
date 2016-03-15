@@ -630,7 +630,7 @@ ul#nav li.active a { color: #11ABB0; }
 /* ================================================================== */
 
 #show {
-   background: #111 url(../images/intro-bg.jpg) no-repeat center;
+   /*background: #111 url(../images/intro-bg.jpg) no-repeat center;*/
    overflow: hidden;
 }
 
@@ -642,8 +642,8 @@ ul#nav li.active a { color: #11ABB0; }
 .slider-text {
 	color: #737E8C;
    text-align: center;
-   width: 85%;
-   margin: 156px auto 66px auto;
+   width: 100%;
+   margin: 20px auto 20px auto;
 }
 .slider-text h2 {
    font: 56px/78px montserrat-regular, Sans-serif;
